@@ -26,13 +26,6 @@ You can view the full analysis in the Jupyter Notebook:
 <img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/f6fc4a61-1230-4a68-99ab-1aa87c20f950" />
 
 
-
-### All Restaurant Locations
-[![All Restaurants](restaurants_map.png)](https://rawcdn.githack.com/pulibharat/Zomato-EDA/refs/heads/main/locations%20of%20the%20restaurents.html)
-
-### North Indian Restaurants
-[![North Indian Restaurants](north_indian_map.png)](https://rawcdn.githack.com/pulibharat/Zomato-EDA/refs/heads/main/North_Indian_Restaurants.html)
-
 ---
 
 
