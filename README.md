@@ -42,7 +42,8 @@ You can view the full analysis in the Jupyter Notebook:
 Quick Bites dominate the restaurant scene in Bangalore, which makes sense since the city is known as the tech capital of India.  
 People with busy, modern lifestyles often prefer fast and convenient dining options.  
 
-![Restaurant Types](images/restaurant_types.png)
+<img width="975" height="632" alt="Screenshot 2025-09-09 114437" src="https://github.com/user-attachments/assets/5f2f66f6-b4ba-414f-8a6e-354575ecb9e3" />
+
 
 ---
 
@@ -50,7 +51,8 @@ People with busy, modern lifestyles often prefer fast and convenient dining opti
 The word cloud shows that customers highlight **place, food, service, staff, taste, friend, try, good** —  
 indicating that both **quality food** and **social experience** play a big role in positive reviews.  
 
-![Word Cloud Positive Reviews](images/positive_reviews_wordcloud.png)
+<img width="766" height="422" alt="image" src="https://github.com/user-attachments/assets/95210647-be04-4dea-af6d-41794e88cc7f" />
+
 
 
 ## ⚙️ Tech Stack
