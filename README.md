@@ -35,6 +35,24 @@ You can view the full analysis in the Jupyter Notebook:
 
 ---
 
+
+# 📊 Zomato EDA
+
+## 🔎 Restaurant Type Distribution
+Quick Bites dominate the restaurant scene in Bangalore, which makes sense since the city is known as the tech capital of India.  
+People with busy, modern lifestyles often prefer fast and convenient dining options.  
+
+![Restaurant Types](images/restaurant_types.png)
+
+---
+
+## ☁️ Word Cloud for Positive Reviews
+The word cloud shows that customers highlight **place, food, service, staff, taste, friend, try, good** —  
+indicating that both **quality food** and **social experience** play a big role in positive reviews.  
+
+![Word Cloud Positive Reviews](images/positive_reviews_wordcloud.png)
+
+
 ## ⚙️ Tech Stack
 - Python 🐍  
 - Pandas, NumPy  
