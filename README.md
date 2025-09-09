@@ -46,7 +46,26 @@ indicating that both **quality food** and **social experience** play a big role 
 
 <img width="766" height="422" alt="image" src="https://github.com/user-attachments/assets/95210647-be04-4dea-af6d-41794e88cc7f" />
 
+---
 
+## 🍴 Cuisine Analysis
+
+### 🌍 Popular Cuisines
+The word cloud below highlights the **variety of cuisines** in the dataset.  
+We can see that **North Indian, South Indian, Chinese, and Fast Food** are among the most popular.  
+
+<img width="713" height="370" alt="Screenshot 2025-09-09 115258" src="https://github.com/user-attachments/assets/06c7ea23-4920-4619-8a87-dec262d9eb5b" />
+
+
+---
+
+### 🍛 Popular Dishes
+This word cloud shows the **most mentioned dishes** in reviews and menus.  
+Clearly, **Biryani, Butter Chicken, Ice Cream, Peri Peri, and Mutton Biryani** dominate the food scene.  
+
+<img width="706" height="356" alt="image" src="https://github.com/user-attachments/assets/ede00aa4-c4e9-4172-adda-d97ec3c93723" />
+
+---
 
 ## ⚙️ Tech Stack
 - Python 🐍  
